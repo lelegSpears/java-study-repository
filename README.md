@@ -16,6 +16,5 @@ Este repositório contém exemplos e exercícios de estudo sobre a linguagem Jav
 - generics = Generics e wildcards
 - datetime = LocalDate, Instant, Formatter
 - io = Leitura e escrita de arquivos
-- gui = Swing básico
 
  Projetos completos (JDBC, OO, Spring) estão em repositórios separados.
