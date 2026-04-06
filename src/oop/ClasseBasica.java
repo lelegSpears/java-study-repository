@@ -31,28 +31,5 @@ public class ClasseBasica {
 		
 		System.out.printf(" Pessoa x = Se chama %s, tem %d anos, %s. Sendo %s.\n", x.nome, x.idade, x.sexo, x.maiorIdade());
 		System.out.printf(" Pessoa y = Se chama %s, tem %d anos, %s. Sendo %s.", y.nome, y.idade, y.sexo, y.maiorIdade());
-
-		
-		
 	}
 }
-	/* O PACOTE ENTITIES:
-	package entities;
-
-	public class Pessoa {	// Classe pessoa com nome, idade e sexo
-		public String nome;
-		public int idade;
-		public String sexo;
-
-	public String maiorIdade() {	// Função para saber se é maior de idade
-		String Resp;
-		if (idade >= 18) {
-			Resp = "Maior de idade";
-		}
-		else {
-			Resp = "Menor de idade";
-		}
-		return Resp;	// Retorna a resposta
-	}
-		
-	} */
