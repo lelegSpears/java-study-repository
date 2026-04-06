@@ -17,3 +17,4 @@ public class Pessoa { // Public apenas para aprendizado
 		return Resp; // Retorna a resposta
 	}
 }
+//Eu criei uma classe simples (Pessoa) para demonstrar instância e uso básico de objetos no main.
