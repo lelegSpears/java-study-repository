@@ -2,7 +2,7 @@ package oop;
 
 import java.util.Scanner;
 
-public class ClasseBasica {
+public class TestePessoa {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
