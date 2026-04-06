@@ -56,3 +56,4 @@ public class Product {
         quantity -= amount;
     }}
 }
+// apliquei conceitos mais próximos do mundo real, como encapsulamento, construtores e regras de negócio."
